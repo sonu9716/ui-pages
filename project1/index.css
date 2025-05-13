@@ -35,7 +35,7 @@ nav h4{
 }
 #center{
     width: 100%;
-    height: 70%;
+    height: 60%;
     /* background-color: red; */
     /* padding: 25px; */
 }
@@ -63,6 +63,7 @@ nav h4{
 }
 #right{
     width: 20%;
+    padding-bottom: 10px;
 }
 .elem{
     padding: 15px 0;
